@@ -1,46 +1,65 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"> RPG React </h1>
+<p align="center">  A game make with ReactJs and typescript
+<p> </p> 
+<p align="center" ><a  href="https://rpg-react-ashy.vercel.app/" > Application running | click here </a>  </p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/daniel-lins-/">
+      <img alt="DanielLins" src="https://img.shields.io/badge/-DanielLi-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/daniel-lins/rpg-react?color=%235965E0">
+  <a href="Dlins300@gmail.com">
+   <img alt="Email" src="https://img.shields.io/badge/-dlins300%40gmail.com-%23525DCB" />
+  </a>
+</p>
 
-## Available Scripts
+# 📌 Contents
 
-In the project directory, you can run:
+* [Screenshots](#camera-screenshot)
+* [Technologies](#rocket-technologies)
+* [How to Run](#computer-how-to-run)
+* [Issues](#bug-issues)
+* [License](#page_facing_up-license)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# :camera: Screenshots
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/71731815/181086773-4a929c66-6c4d-4955-8b68-3def70167d0c.jpg"  width="500px" />
 
-### `npm test`
+ 
+ 
+  
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# :rocket: Technologies
+This project was made using the follow technologies:
+* [TypeScript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Styled Components](https://styled-components.com/)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# :computer: How to run
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Clone Repository
+$ git clone https://github.com/Daniel-lins/delivery-app
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Install Dependencies
+$ npm i
 
-### `npm run eject`
+# Run Aplication
+$ npm start
+```
+Go to http://localhost:3000/ to see the result.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# :bug: Issues
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Create a <a href="https://github.com/daniel-lins/rpg-react/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# :page_facing_up: License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This project is under the [MIT license](./LICENSE).
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank you! 🌠
